@@ -32,3 +32,9 @@
     <img src="https://img.shields.io/badge/x86_assembly-blue?style=for-the-badge&logo=intel&logoColor=white/"></img>
   </p>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxiKKK&hide_border=true&layout=compact" align="center" />
+</div>
