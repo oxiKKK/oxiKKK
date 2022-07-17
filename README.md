@@ -17,9 +17,6 @@
     <a href="https://discordapp.com/users/363390198563864576/">
       <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white/"></img>
     </a>
-    <a href="https://open.spotify.com/user/g4egdces9ggfg8clicxf62kqs?si=6decf67a89c54fb5/">
-      <img src="https://img.shields.io/badge/Spotify-white?style=for-the-badge&logo=spotify&logoColor=white/"></img>
-    </a>
   </p>
   <p>
     <a href="https://oxikkk.github.io/">
