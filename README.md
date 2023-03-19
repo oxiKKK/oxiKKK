@@ -11,6 +11,9 @@
     <img src="https://img.shields.io/github/stars/oxiKKK?style=social/"></img>
   </p>
   <p>
+    <img src="https://komarev.com/ghpvc/?username=oxiKKK&color=blue"></img>
+  </p>
+  <p>
     <a href="https://www.youtube.com/c/OX666">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white/"></img>
     </a>
