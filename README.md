@@ -43,6 +43,8 @@
 
 <div id="repos">
   <h1>Some of my repositories you may check out</h1>
+  <h3>Cheating</h3>
+  <a href="https://github.com/oxiKKK/oxware">oxWARE</a> My definitive CS 1.6 cheat taht is free and open-source!<br>
   <h3>GoldSrc</h3>
   <a href="https://github.com/oxiKKK/goldsrc-version-list">goldsrc-version-list</a> A complete list of GoldSrc versions, build dates, including original binaries!<br>
   <a href="https://github.com/oxiKKK/goldsource-dll-decryptor">goldsource-dll-decryptor</a> DLL decryptor for older GoldSrc builds.<br>
