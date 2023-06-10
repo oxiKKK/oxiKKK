@@ -63,6 +63,8 @@
   <h3>Other</h3>
   <a href="https://github.com/oxiKKK/elf-parser">elf-parser</a> A simple elf parser that can dump and log data stored inside an elf file.<br>
   <a href="https://github.com/oxiKKK/obfuscated-win-directory-printer">obfuscated-win-directory-printer</a> An obfuscated windows directory printer.<br>
+  <a href="https://github.com/oxiKKK/x86_executable_inspector">x86_executable_inspector</a> A tool that inspects x86 executable formats on Windows (PE format, e.g. DLLs or EXEs).<br>
+  <a href="https://github.com/oxiKKK/BraTr">BraTr</a> BraTr allows realtime translation between text and braille letters..<br>
 
 </div>
 
