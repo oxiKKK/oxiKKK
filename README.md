@@ -1,7 +1,7 @@
 <div>
  <h1 align="center">Hello, I am oxiKKK! 👋</h1>
  <p>I am a self-taught software developer from <b>Czech Republic</b>. I like to learn, evolve, and study!</p>
- <p>As of <b>2023</b>, I'm currently interested in reverse-engineering, development with modern C++, the good ol' GoldSrc engine, cheating, exploitations, low-level stuff, and operating systems.</p>
+ <p>As of <b>2023</b>, I'm currently interested in reverse-engineering, development with modern C++, the good ol' GoldSrc engine, CS2, cheating, exploitations, low-level stuff, and operating systems.</p>
 </div>
 
 
@@ -43,8 +43,15 @@
 
 <div id="repos">
   <h1>Some of my repositories you may check out</h1>
+
+  <h3>CS2</h3>
+  <a href="https://github.com/oxiKKK/cs2-items-game-dumper">CS2 items_game.txt dumper</a> Personal items_game.txt CS2 python dumper.<br>
+  <a href="https://github.com/oxiKKK/cs2-buildnumber-dumper">CS2 buildnumber dumper</a> CS2 build number dumper.<br>
+ 
   <h3>Cheating</h3>
   <a href="https://github.com/oxiKKK/oxware">oxWARE</a> My definitive CS 1.6 cheat that is free and open-source!<br>
+  <a href="https://github.com/oxiKKK/sigscanner">sigscanner</a> Customizable C++ signature scanner.<br>
+
   <h3>GoldSrc</h3>
   <a href="https://github.com/oxiKKK/goldsrc-version-list">goldsrc-version-list</a> A complete list of GoldSrc versions, build dates, including original binaries!<br>
   <a href="https://github.com/oxiKKK/goldsource-dll-decryptor">goldsource-dll-decryptor</a> DLL decryptor for older GoldSrc builds.<br>
