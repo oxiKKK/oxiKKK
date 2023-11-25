@@ -1,7 +1,7 @@
 <div>
  <h1 align="center">Hello, I am oxiKKK! 👋</h1>
- <p>I am a self-taught software developer from <b>Czech Republic</b>. I like to learn, evolve, and study!</p>
- <p>As of <b>2023</b>, I'm currently interested in reverse-engineering, development with modern C++, the good ol' GoldSrc engine, CS2, cheating, exploitations, low-level stuff, and operating systems.</p>
+ <p>I am a self-taught software developer from <b>Czech Republic</b>. I am passionate about learning new technology, exploring things, and studying.</p>
+ <p>As of <b>2023</b>, I'm currently interested in reverse-engineering, development with modern C++, the good ol' GoldSrc engine, CS2, cheating, exploitations, low-level stuff, operating systems, and web development.</p>
 </div>
 
 
@@ -30,12 +30,13 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus&logoColor=white/"></img>
-    <img src="https://img.shields.io/badge/C-blue?style=flat&logo=c&logoColor=white/"></img>
-    <img src="https://img.shields.io/badge/x86_assembly-blue?style=flat&logo=intel&logoColor=white/"></img>
-    <img src="https://img.shields.io/badge/HTML5-blue?style=flat&logo=HTML5&logoColor=white/"></img>
-    <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=white/"></img>
-    <img src="https://img.shields.io/badge/JavaScript-blue?style=flat&logo=JavaScript&logoColor=white/"></img>
+    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white/"></img>
+    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white/"></img>
+    <img src="https://img.shields.io/badge/x86_assembly-blue?style=for-the-badge&logo=intel&logoColor=white/"></img>
+    <img src="https://img.shields.io/badge/HTML5-blue?style=for-the-badge&logo=HTML5&logoColor=white/"></img>
+    <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white/"></img>
+    <img src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white/"></img>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
   </p>
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oxiKKK&hide_border=true&layout=compact" align="center" />
