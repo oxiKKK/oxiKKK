@@ -30,12 +30,12 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white/"></img>
-    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white/"></img>
-    <img src="https://img.shields.io/badge/x86_assembly-blue?style=for-the-badge&logo=intel&logoColor=white/"></img>
-    <img src="https://img.shields.io/badge/HTML5-blue?style=for-the-badge&logo=HTML5&logoColor=white/"></img>
-    <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white/"></img>
-    <img src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white/"></img>
+    <img src="https://img.shields.io/badge/C++-3670A0?style=for-the-badge&logo=cplusplus&logoColor=ffdd54/"></img>
+    <img src="https://img.shields.io/badge/C-3670A0?style=for-the-badge&logo=c&logoColor=ffdd54/"></img>
+    <img src="https://img.shields.io/badge/x86_assembly-3670A0?style=for-the-badge&logo=intel&logoColor=ffdd54/"></img>
+    <img src="https://img.shields.io/badge/HTML5-3670A0?style=for-the-badge&logo=HTML5&logoColor=ffdd54/"></img>
+    <img src="https://img.shields.io/badge/CSS3-3670A0?style=for-the-badge&logo=CSS3&logoColor=ffdd54/"></img>
+    <img src="https://img.shields.io/badge/JavaScript-3670A0?style=for-the-badge&logo=JavaScript&logoColor=ffdd54/"></img>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
   </p>
   
