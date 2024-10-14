@@ -1,7 +1,7 @@
 <div>
  <h1 align="center">Hello, I am oxiKKK! 👋</h1>
  <p>I am a self-taught software developer from <b>Czech Republic</b>. I am passionate about learning new technology, exploring things, and studying.</p>
- <p>As of <b>2024</b>, I'm currently interested in reverse-engineering, modern C++, Python, the good ol' GoldSrc engine, CS2, cheating, exploitations, low-level stuff, operating systems, and partially backend web development.</p>
+ <p>As of <b>2024</b>, I'm currently interested in reverse-engineering, modern C++, Python, the good ol' GoldSrc engine, CS2, cheating, exploitations, low-level stuff, operating systems, and backend web development and architectures.</p>
 </div>
 
 
