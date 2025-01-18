@@ -25,7 +25,7 @@
     </a>
   </p>
   <p>
-    <a href="https://oxikkk.github.io/">
+    <a href="https://oxikkk.xyz/">
       <img src="https://img.shields.io/website?down_message=down%20%3A%28&label=PERSONAL%20BLOG&style=for-the-badge&up_message=up%21%20%3A%29&url=https%3A%2F%2Foxikkk.github.io%2F&logoColor=yellowgreen"></img></a>
     </a>
   </p>
