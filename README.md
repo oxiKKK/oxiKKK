@@ -1,9 +1,9 @@
 <div>
  <h1 align="center">Hello, I am oxiKKK! 👋</h1>
- <p>I am a self-taught software developer from <b>Czech Republic</b>. I am passionate about learning new technology, exploring things, and studying.</p>
- <p>As of <b>2025</b>, I'm currently interested in reverse-engineering, modern C++, Python, the good ol' GoldSrc engine, CS2, cheating, exploitations, low-level stuff, operating systems, and backend web development and architectures.</p>
+ <p>Well hi, I’m into all kinds of tech and love learning new things—mostly self-taught. I especially enjoy reverse engineering, coding in C++, Python, and even some basic web dev. I'm really into the GoldSrc engine (I just love it), CS2/CS1.6, exploit development, low-level programming, operating systems, assembly, and all that fun stuff.
 </div>
 
+<sup>btw that chick on my pfp is from the new ida 9.0 release.</sup>
 
 <div id="header" align="center">
   <p>
