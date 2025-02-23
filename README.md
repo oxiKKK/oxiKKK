@@ -29,15 +29,6 @@
       <img src="https://img.shields.io/website?down_message=down%20%3A%28&label=PERSONAL%20BLOG&style=for-the-badge&up_message=up%21%20%3A%29&url=https%3A%2F%2Foxikkk.github.io%2F&logoColor=yellowgreen"></img></a>
     </a>
   </p>
-  <p>
-    <img src="https://img.shields.io/badge/C++-3670A0?style=for-the-badge&logo=cplusplus&logoColor=ffdd54/"></img>
-    <img src="https://img.shields.io/badge/C-3670A0?style=for-the-badge&logo=c&logoColor=ffdd54/"></img>
-    <img src="https://img.shields.io/badge/x86_assembly-3670A0?style=for-the-badge&logo=intel&logoColor=ffdd54/"></img>
-    <img src="https://img.shields.io/badge/HTML5-3670A0?style=for-the-badge&logo=HTML5&logoColor=ffdd54/"></img>
-    <img src="https://img.shields.io/badge/CSS3-3670A0?style=for-the-badge&logo=CSS3&logoColor=ffdd54/"></img>
-    <img src="https://img.shields.io/badge/JavaScript-3670A0?style=for-the-badge&logo=JavaScript&logoColor=ffdd54/"></img>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
-  </p>
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oxiKKK&hide_border=true&layout=compact" align="center" />
 </div>
@@ -52,6 +43,9 @@
   <h3>Cheating</h3>
   <a href="https://github.com/oxiKKK/oxware">oxWARE</a> My definitive CS 1.6 cheat that is free and open-source!<br>
   <a href="https://github.com/oxiKKK/sigscanner">sigscanner</a> Customizable C++ signature scanner.<br>
+
+  <h3>IDA</h3>
+  <a href="https://github.com/oxiKKK/ida-function-string-associate">ida-function-string-associate</a> IDA 9.0 Function String Associate Plugin.<br>
 
   <h3>GoldSrc</h3>
   <a href="https://github.com/oxiKKK/goldsrc-version-list">goldsrc-version-list</a> A complete list of GoldSrc versions, build dates, including original binaries!<br>
@@ -71,8 +65,6 @@
   <h3>Other</h3>
   <a href="https://github.com/oxiKKK/elf-parser">elf-parser</a> A simple elf parser that can dump and log data stored inside an elf file.<br>
   <a href="https://github.com/oxiKKK/obfuscated-win-directory-printer">obfuscated-win-directory-printer</a> An obfuscated windows directory printer.<br>
-  <a href="https://github.com/oxiKKK/x86_executable_inspector">x86_executable_inspector</a> A tool that inspects x86 executable formats on Windows (PE format, e.g. DLLs or EXEs).<br>
-  <a href="https://github.com/oxiKKK/BraTr">BraTr</a> BraTr allows realtime translation between text and braille letters..<br>
 
 </div>
 
