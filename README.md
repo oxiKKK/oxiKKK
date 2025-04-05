@@ -1,9 +1,9 @@
 <div>
  <h1 align="center">Hello, I am oxiKKK! 👋</h1>
- <p>Well hi, I’m into all kinds of tech and love learning new things—mostly self-taught. I especially enjoy reverse engineering, coding in C++, Python, and I can even do full-stack development (yes, even frontend guys). I'm really into the GoldSrc engine (I just love it), CS2/CS1.6, exploit development, low-level programming, operating systems, assembly, and all that fun stuff.
+ <p>Well hi, I’m into all kinds of tech and love learning new things—mostly self-taught. I especially enjoy reverse engineering, coding in C++, Python, and I can even do full-stack development (yes even frontend, guys). I'm really into the GoldSrc engine (I just love it), CS2/CS1.6, exploit development, low-level programming, operating systems, assembly, and all that fun stuff.
 </div>
 
-<sup>btw that chick on my pfp is from the new ida 9.0 release.</sup>
+<sup>btw that one on my pfp is from the new ida 9.0 release.</sup>
 
 <div id="header" align="center">
   <p>
