@@ -42,10 +42,10 @@
  
   <h3>Cheating</h3>
   <a href="https://github.com/oxiKKK/oxware">oxWARE</a> My definitive CS 1.6 cheat that is free and open-source!<br>
-  <a href="https://github.com/oxiKKK/sigscanner">sigscanner</a> Customizable C++ signature scanner.<br>
 
   <h3>IDA</h3>
   <a href="https://github.com/oxiKKK/ida-function-string-associate">ida-function-string-associate</a> IDA 9.0 Function String Associate Plugin.<br>
+  <a href="https://github.com/oxiKKK/ida-sigmaker">IDA 9.X sigmaker</a>Python sigmaker plugin for IDA 9.X<br>
 
   <h3>GoldSrc</h3>
   <a href="https://github.com/oxiKKK/goldsrc-version-list">goldsrc-version-list</a> A complete list of GoldSrc versions, build dates, including original binaries!<br>
