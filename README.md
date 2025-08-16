@@ -45,10 +45,11 @@
 
   <h3>IDA</h3>
   <a href="https://github.com/oxiKKK/ida-function-string-associate">ida-function-string-associate</a> IDA 9.0 Function String Associate Plugin.<br>
-  <a href="https://github.com/oxiKKK/ida-sigmaker">IDA 9.X sigmaker</a>Python sigmaker plugin for IDA 9.X<br>
+  <a href="https://github.com/oxiKKK/ida-sigmaker">ida-sigmaker</a>Python sigmaker plugin for IDA 9.X<br>
 
   <h3>GoldSrc</h3>
   <a href="https://github.com/oxiKKK/goldsrc-version-list">goldsrc-version-list</a> A complete list of GoldSrc versions, build dates, including original binaries!<br>
+  <a href="https://github.com/oxiKKK/goldsrc-buildnumber-extractor">goldsrc-buildnumber-extractor</a>Python script for extracting build numbers out of executables (including enxcrypted blobs)<br>
   <a href="https://github.com/oxiKKK/goldsource-dll-decryptor">goldsource-dll-decryptor</a> DLL decryptor for older GoldSrc builds.<br>
   <a href="https://github.com/oxiKKK/goldsrc-reversed-steam_api">goldsrc-reversed-steam_api</a> Reverse-engineered steam_api module that ships with the GoldSrc engine.<br>
   <a href="https://github.com/oxiKKK/goldsrc-reversed-build_number-function">goldsrc-reversed-build_number-function</a> A reverse-engineered replica of the build number generator algorithm used in GoldSrc.<br>
