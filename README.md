@@ -39,6 +39,7 @@
   <h3>CS2</h3>
   <a href="https://github.com/oxiKKK/cs2-items-game-dumper">CS2 items_game.txt dumper</a> Personal items_game.txt CS2 python dumper.<br>
   <a href="https://github.com/oxiKKK/cs2-buildnumber-dumper">CS2 buildnumber dumper</a> CS2 build number dumper.<br>
+  <a href="https://github.com/oxiKKK/ida-cs2-reversing-tools">CS2 Reversing Utilities Plugin</a> IDA Pro CS2 plugin collection to enhance reverse-engineering experience.<br>
  
   <h3>Cheating</h3>
   <a href="https://github.com/oxiKKK/oxware">oxWARE</a> My definitive CS 1.6 cheat that is free and open-source!<br>
@@ -46,6 +47,7 @@
   <h3>IDA</h3>
   <a href="https://github.com/oxiKKK/ida-function-string-associate">ida-function-string-associate</a> IDA 9.0 Function String Associate Plugin.<br>
   <a href="https://github.com/oxiKKK/ida-sigmaker">ida-sigmaker</a>Python sigmaker plugin for IDA 9.X<br>
+  <a href="https://github.com/oxiKKK/ida-cs2-reversing-tools">CS2 Reversing Utilities Plugin</a> IDA Pro CS2 plugin collection to enhance reverse-engineering experience.<br>
 
   <h3>GoldSrc</h3>
   <a href="https://github.com/oxiKKK/goldsrc-version-list">goldsrc-version-list</a> A complete list of GoldSrc versions, build dates, including original binaries!<br>
