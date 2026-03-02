@@ -26,7 +26,7 @@ Self-taught reverse engineer and low-level programmer focused on game internals,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxiKKK&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oxiKKK&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 ## Focus Areas
