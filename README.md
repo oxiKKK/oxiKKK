@@ -39,34 +39,34 @@ Self-taught reverse engineer and low-level programmer focused on game internals,
 ## Featured Repositories
 
 ### CS2
-- [cs2-items-game-dumper](https://github.com/oxiKKK/cs2-items-game-dumper) — items_game.txt dumper for CS2.
-- [cs2-buildnumber-dumper](https://github.com/oxiKKK/cs2-buildnumber-dumper) — CS2 build number dumper.
-- [ida-cs2-reversing-tools](https://github.com/oxiKKK/ida-cs2-reversing-tools) — IDA plugin collection for CS2 reversing workflows.
-- [cs2-build-analysis-automation](https://github.com/oxiKKK/cs2-build-analysis-automation) — automation pipeline for CS2 depot download + IDA static analysis.
-- [cs2-vpk-game-extractor](https://github.com/oxiKKK/cs2-vpk-game-extractor) — utility to extract CS2 VPK files.
+- [cs2-items-game-dumper](https://github.com/oxiKKK/cs2-items-game-dumper) -- items_game.txt dumper for CS2.
+- [cs2-buildnumber-dumper](https://github.com/oxiKKK/cs2-buildnumber-dumper) -- CS2 build number dumper.
+- [ida-cs2-reversing-tools](https://github.com/oxiKKK/ida-cs2-reversing-tools) -- IDA plugin collection for CS2 reversing workflows.
+- [cs2-build-analysis-automation](https://github.com/oxiKKK/cs2-build-analysis-automation) -- automation pipeline for CS2 depot download + IDA static analysis.
+- [cs2-vpk-game-extractor](https://github.com/oxiKKK/cs2-vpk-game-extractor) -- utility to extract CS2 VPK files.
 
 ### IDA Tools
-- [ida-clang-include](https://github.com/oxiKKK/ida-clang-include) - better version of built-in ida-clang dialog.
-- [ida-function-string-associate](https://github.com/oxiKKK/ida-function-string-associate) — function-string association plugin for IDA 9.x.
-- [ida-sigmaker](https://github.com/oxiKKK/ida-sigmaker) — SigMaker plugin for IDA 9.x.
-- [ida-vtable-tools](https://github.com/oxiKKK/ida-vtable-tools) — IDA 9.x Python plugin for vtable operations.
+- [ida-clang-include](https://github.com/oxiKKK/ida-clang-include) -- better version of built-in ida-clang dialog.
+- [ida-function-string-associate](https://github.com/oxiKKK/ida-function-string-associate) -- function-string association plugin for IDA 9.x.
+- [ida-sigmaker](https://github.com/oxiKKK/ida-sigmaker) -- SigMaker plugin for IDA 9.x.
+- [ida-vtable-tools](https://github.com/oxiKKK/ida-vtable-tools) -- IDA 9.x Python plugin for vtable operations.
 
 ### GoldSrc Research
-- [goldsrc-version-list](https://github.com/oxiKKK/goldsrc-version-list) — GoldSrc versions, build dates, and binary references.
-- [goldsrc-buildnumber-extractor](https://github.com/oxiKKK/goldsrc-buildnumber-extractor) — build number extractor from binaries.
-- [goldsource-dll-decryptor](https://github.com/oxiKKK/goldsource-dll-decryptor) — DLL decryptor for older GoldSrc builds.
-- [goldsrc-reversed-steam_api](https://github.com/oxiKKK/goldsrc-reversed-steam_api) — reversed steam_api module from GoldSrc.
-- [goldsrc-reversed-build_number-function](https://github.com/oxiKKK/goldsrc-reversed-build_number-function) — reversed build number algorithm.
-- [cstrike-random-number-generator](https://github.com/oxiKKK/cstrike-random-number-generator) — reversed RNG implementation from cstrike.
-- [goldsrc-reversed-dinput](https://github.com/oxiKKK/goldsrc-reversed-dinput) — reversed DInput implementation.
-- [goldsrc-wad-walker](https://github.com/oxiKKK/goldsrc-wad-walker) — WAD3 inspection utility.
+- [goldsrc-version-list](https://github.com/oxiKKK/goldsrc-version-list) -- GoldSrc versions, build dates, and binary references.
+- [goldsrc-buildnumber-extractor](https://github.com/oxiKKK/goldsrc-buildnumber-extractor) -- build number extractor from binaries.
+- [goldsource-dll-decryptor](https://github.com/oxiKKK/goldsource-dll-decryptor) -- DLL decryptor for older GoldSrc builds.
+- [goldsrc-reversed-steam_api](https://github.com/oxiKKK/goldsrc-reversed-steam_api) -- reversed steam_api module from GoldSrc.
+- [goldsrc-reversed-build_number-function](https://github.com/oxiKKK/goldsrc-reversed-build_number-function) -- reversed build number algorithm.
+- [cstrike-random-number-generator](https://github.com/oxiKKK/cstrike-random-number-generator) -- reversed RNG implementation from cstrike.
+- [goldsrc-reversed-dinput](https://github.com/oxiKKK/goldsrc-reversed-dinput) -- reversed DInput implementation.
+- [goldsrc-wad-walker](https://github.com/oxiKKK/goldsrc-wad-walker) -- WAD3 inspection utility.
 
 ### Windows Internals
-- [GetTickCountImpl](https://github.com/oxiKKK/GetTickCountImpl) — internal implementations of GetTickCount and GetTickCount64.
-- [GetProcAddress](https://github.com/oxiKKK/GetProcAddress) — custom GetProcAddress implementation via export parsing.
-- [iat-dump](https://github.com/oxiKKK/iat-dump) — import table dumper for PE files.
-- [eat-fn-finder](https://github.com/oxiKKK/eat-fn-finder) — export table dumper for PE modules.
+- [GetTickCountImpl](https://github.com/oxiKKK/GetTickCountImpl) -- internal implementations of GetTickCount and GetTickCount64.
+- [GetProcAddress](https://github.com/oxiKKK/GetProcAddress) -- custom GetProcAddress implementation via export parsing.
+- [iat-dump](https://github.com/oxiKKK/iat-dump) -- import table dumper for PE files.
+- [eat-fn-finder](https://github.com/oxiKKK/eat-fn-finder) -- export table dumper for PE modules.
 
 ### Other
-- [elf-parser](https://github.com/oxiKKK/elf-parser) — minimal ELF parser and logger.
-- [obfuscated-win-directory-printer](https://github.com/oxiKKK/obfuscated-win-directory-printer) — obfuscated Windows directory printer.
+- [elf-parser](https://github.com/oxiKKK/elf-parser) -- minimal ELF parser and logger.
+- [obfuscated-win-directory-printer](https://github.com/oxiKKK/obfuscated-win-directory-printer) -- obfuscated Windows directory printer.
