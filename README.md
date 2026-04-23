@@ -46,6 +46,7 @@ Self-taught reverse engineer and low-level programmer focused on game internals,
 - [cs2-vpk-game-extractor](https://github.com/oxiKKK/cs2-vpk-game-extractor) — utility to extract CS2 VPK files.
 
 ### IDA Tools
+- [ida-clang-include](https://github.com/oxiKKK/ida-clang-include) - better version of built-in ida-clang dialog.
 - [ida-function-string-associate](https://github.com/oxiKKK/ida-function-string-associate) — function-string association plugin for IDA 9.x.
 - [ida-sigmaker](https://github.com/oxiKKK/ida-sigmaker) — SigMaker plugin for IDA 9.x.
 - [ida-vtable-tools](https://github.com/oxiKKK/ida-vtable-tools) — IDA 9.x Python plugin for vtable operations.
