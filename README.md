@@ -46,12 +46,15 @@ Self-taught reverse engineer and low-level programmer focused on game internals,
 - [cs2-vpk-game-extractor](https://github.com/oxiKKK/cs2-vpk-game-extractor) -- utility to extract CS2 VPK files.
 
 ### IDA Tools
+- [ida-edit-function-prototype](https://github.com/oxiKKK/ida-edit-function-prototype) -- IDA plugin for editing function prototypes, symbol names, and arguments in one dialog.
+- [ida-goldsrc-reversing-tools](https://github.com/oxiKKK/ida-goldsrc-reversing-tools) -- GoldSrc reversing tools for cvar identification, build detection, and function/global name transfer.
 - [ida-clang-include](https://github.com/oxiKKK/ida-clang-include) -- better version of built-in ida-clang dialog.
 - [ida-function-string-associate](https://github.com/oxiKKK/ida-function-string-associate) -- function-string association plugin for IDA 9.x.
 - [ida-sigmaker](https://github.com/oxiKKK/ida-sigmaker) -- SigMaker plugin for IDA 9.x.
 - [ida-vtable-tools](https://github.com/oxiKKK/ida-vtable-tools) -- IDA 9.x Python plugin for vtable operations.
 
 ### GoldSrc Research
+- [re-goldsrc-won-launcher-1792](https://github.com/oxiKKK/re-goldsrc-won-launcher-1792) -- source reconstruction of the WON-era Half-Life launcher, with fixes and WON server emulation.
 - [goldsrc-version-list](https://github.com/oxiKKK/goldsrc-version-list) -- GoldSrc versions, build dates, and binary references.
 - [goldsrc-buildnumber-extractor](https://github.com/oxiKKK/goldsrc-buildnumber-extractor) -- build number extractor from binaries.
 - [goldsource-dll-decryptor](https://github.com/oxiKKK/goldsource-dll-decryptor) -- DLL decryptor for older GoldSrc builds.
@@ -70,3 +73,7 @@ Self-taught reverse engineer and low-level programmer focused on game internals,
 ### Other
 - [elf-parser](https://github.com/oxiKKK/elf-parser) -- minimal ELF parser and logger.
 - [obfuscated-win-directory-printer](https://github.com/oxiKKK/obfuscated-win-directory-printer) -- obfuscated Windows directory printer.
+
+### Archived Projects
+
+- [oxware](https://github.com/oxiKKK/oxware) -- archived open-source Counter-Strike 1.6 cheat written in C++.
