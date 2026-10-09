@@ -25,10 +25,6 @@ Self-taught reverse engineer and low-level programmer focused on game internals,
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oxiKKK&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
 ## Focus Areas
 
 - Reverse engineering (game engines, binaries, anti-cheat-adjacent internals)
@@ -38,17 +34,18 @@ Self-taught reverse engineer and low-level programmer focused on game internals,
 
 ## Featured Repositories
 
-### CS2
+### Source 2 (CS2 / s&box)
 - [cs2-items-game-dumper](https://github.com/oxiKKK/cs2-items-game-dumper) -- items_game.txt dumper for CS2.
 - [cs2-buildnumber-dumper](https://github.com/oxiKKK/cs2-buildnumber-dumper) -- CS2 build number dumper.
 - [ida-cs2-reversing-tools](https://github.com/oxiKKK/ida-cs2-reversing-tools) -- IDA plugin collection for CS2 reversing workflows.
 - [cs2-build-analysis-automation](https://github.com/oxiKKK/cs2-build-analysis-automation) -- automation pipeline for CS2 depot download + IDA static analysis.
 - [cs2-vpk-game-extractor](https://github.com/oxiKKK/cs2-vpk-game-extractor) -- utility to extract CS2 VPK files.
+- [sbox-dwarf](https://github.com/oxiKKK/sbox-dwarf) -- DWARF data from the s&box leak, dumped into a structured form.
 
 ### IDA Tools
 - [ida-edit-function-prototype](https://github.com/oxiKKK/ida-edit-function-prototype) -- IDA plugin for editing function prototypes, symbol names, and arguments in one dialog.
 - [ida-goldsrc-reversing-tools](https://github.com/oxiKKK/ida-goldsrc-reversing-tools) -- GoldSrc reversing tools for cvar identification, build detection, and function/global name transfer.
-- [ida-clang-include](https://github.com/oxiKKK/ida-clang-include) -- better version of built-in ida-clang dialog.
+- [ida-clang-include](https://github.com/oxiKKK/ida-clang-include) -- enhances IDAClang header parsing and TIL management.
 - [ida-function-string-associate](https://github.com/oxiKKK/ida-function-string-associate) -- function-string association plugin for IDA 9.x.
 - [ida-sigmaker](https://github.com/oxiKKK/ida-sigmaker) -- SigMaker plugin for IDA 9.x.
 - [ida-vtable-tools](https://github.com/oxiKKK/ida-vtable-tools) -- IDA 9.x Python plugin for vtable operations.
@@ -64,6 +61,10 @@ Self-taught reverse engineer and low-level programmer focused on game internals,
 - [goldsrc-reversed-dinput](https://github.com/oxiKKK/goldsrc-reversed-dinput) -- reversed DInput implementation.
 - [goldsrc-wad-walker](https://github.com/oxiKKK/goldsrc-wad-walker) -- WAD3 inspection utility.
 
+### Aureal 3D
+- [re-a3d-api](https://github.com/oxiKKK/re-a3d-api) -- reverse-engineered Aureal A3D API C++ interface.
+- [A3d-SDKs](https://github.com/oxiKKK/A3d-SDKs) -- collection of original Aureal 3D SDKs.
+
 ### Windows Internals
 - [GetTickCountImpl](https://github.com/oxiKKK/GetTickCountImpl) -- internal implementations of GetTickCount and GetTickCount64.
 - [GetProcAddress](https://github.com/oxiKKK/GetProcAddress) -- custom GetProcAddress implementation via export parsing.
@@ -71,6 +72,7 @@ Self-taught reverse engineer and low-level programmer focused on game internals,
 - [eat-fn-finder](https://github.com/oxiKKK/eat-fn-finder) -- export table dumper for PE modules.
 
 ### Other
+- [dx7sdk](https://github.com/oxiKKK/dx7sdk) -- original DirectX 7 SDK.
 - [elf-parser](https://github.com/oxiKKK/elf-parser) -- minimal ELF parser and logger.
 - [obfuscated-win-directory-printer](https://github.com/oxiKKK/obfuscated-win-directory-printer) -- obfuscated Windows directory printer.
 
